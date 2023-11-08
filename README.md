@@ -1,0 +1,2 @@
+# WPBasic
+ Basic wordpress theme
